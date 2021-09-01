@@ -1,0 +1,134 @@
+[2021-08-31 21:49:23.475] [exthost] [info] extension host started
+[2021-08-31 21:49:23.476] [exthost] [info] Skipping acquiring lock for c:\Users\maxo2\Documents\VSC-PROFILES\react\User\workspaceStorage\a96667b42de1baeee25b892aa4889c57.
+[2021-08-31 21:49:23.508] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-08-31 21:49:23.508] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-08-31 21:49:23.525] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-08-31 21:49:23.525] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-08-31 21:49:23.528] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-31 21:49:23.528] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/git/dist/main
+[2021-08-31 21:49:23.544] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2021-08-31 21:49:23.544] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/Documents/VSC-PROFILES/react/formulahendry.auto-rename-tag-0.1.8/packages/extension/dist/extensionMain.js
+[2021-08-31 21:49:23.551] [exthost] [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode {"startup":true,"extensionId":{"value":"TabNine.tabnine-vscode","_lower":"tabnine.tabnine-vscode"},"activationEvent":"*"}
+[2021-08-31 21:49:23.551] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/Documents/VSC-PROFILES/react/tabnine.tabnine-vscode-3.4.25/out/extension
+[2021-08-31 21:49:23.631] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-08-31 21:49:23.631] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/Documents/VSC-PROFILES/react/vscodevim.vim-1.21.7/out/extension
+[2021-08-31 21:49:23.668] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-08-31 21:49:23.668] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/npm/dist/npmMain
+[2021-08-31 21:49:26.515] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-08-31 21:49:26.515] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-08-31 21:49:26.521] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-08-31 21:49:26.521] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-08-31 21:49:26.536] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-08-31 21:49:26.537] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-08-31 21:49:26.615] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-31 21:49:26.616] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/github/dist/extension.js
+[2021-08-31 21:49:26.658] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-08-31 21:49:26.658] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-08-31 21:49:26.740] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-08-31 21:49:26.740] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-08-31 21:49:27.016] [exthost] [info] eager extensions activated
+[2021-08-31 21:49:27.020] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-08-31 21:49:27.020] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-08-31 21:49:27.028] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-08-31 21:49:27.028] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-08-31 21:49:27.030] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-wsl-recommender","_lower":"ms-vscode-remote.remote-wsl-recommender"},"activationEvent":"onStartupFinished"}
+[2021-08-31 21:49:27.030] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-08-31 21:49:27.037] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-08-31 21:49:27.037] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/Documents/VSC-PROFILES/react/dbaeumer.vscode-eslint-2.1.23/client/out/extension
+[2021-08-31 21:50:10.260] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-08-31 21:50:10.260] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-08-31 21:50:12.264] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-08-31 21:50:12.264] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/Documents/VSC-PROFILES/react/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-08-31 21:50:26.863] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":false,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-08-31 21:50:26.864] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/Documents/VSC-PROFILES/react/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-08-31 21:53:09.939] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":false,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2021-08-31 21:53:09.939] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/Documents/VSC-PROFILES/react/streetsidesoftware.code-spell-checker-1.10.2/dist/extension.js
+[2021-08-31 21:53:32.585] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker-spanish {"startup":false,"extensionId":{"value":"streetsidesoftware.code-spell-checker-spanish","_lower":"streetsidesoftware.code-spell-checker-spanish"},"activationEvent":"*"}
+[2021-08-31 21:53:32.585] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/Documents/VSC-PROFILES/react/streetsidesoftware.code-spell-checker-spanish-1.0.8/out/src/extension
+[2021-08-31 21:53:52.011] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":false,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"onStartupFinished"}
+[2021-08-31 21:53:52.011] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/Documents/VSC-PROFILES/react/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/extension
+[2021-08-31 21:54:39.906] [exthost] [info] ExtensionService#_doActivateExtension mkloubert.vscode-http-client {"startup":false,"extensionId":{"value":"mkloubert.vscode-http-client","_lower":"mkloubert.vscode-http-client"},"activationEvent":"*"}
+[2021-08-31 21:54:39.906] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/Documents/VSC-PROFILES/react/mkloubert.vscode-http-client-0.34.0/out/extension
+[2021-08-31 21:54:43.860] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-08-31 21:54:44.118] [exthost] [error] TypeError: r.some is not a function
+    at Function.saveToDisk (c:\Users\maxo2\Documents\VSC-PROFILES\react\vscodevim.vim-1.21.7\src\register\register.ts:350:30)
+    at Object.e.deactivate (c:\Users\maxo2\Documents\VSC-PROFILES\react\vscodevim.vim-1.21.7\extension.ts:37:18)
+    at v._deactivate (c:\Users\maxo2\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11286)
+    at c:\Users\maxo2\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:10000
+    at Array.map (<anonymous>)
+    at v.deactivateAll (c:\Users\maxo2\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9988)
+    at P.terminate (c:\Users\maxo2\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:94:725)
+    at h (c:\Users\maxo2\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:104:32088)
+    at Socket.<anonymous> (c:\Users\maxo2\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:104:29731)
+    at Socket.emit (events.js:327:22)
+    at Pipe.<anonymous> (net.js:673:12)
+[2021-08-31 21:54:44.874] [exthost] [info] exiting with code 0
+[2021-08-31 21:54:44.993] [exthost] [info] extension host started
+[2021-08-31 21:54:44.993] [exthost] [info] Skipping acquiring lock for c:\Users\maxo2\Documents\VSC-PROFILES\react\User\workspaceStorage\a96667b42de1baeee25b892aa4889c57.
+[2021-08-31 21:54:45.284] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-08-31 21:54:45.284] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-08-31 21:54:45.295] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-08-31 21:54:45.295] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-08-31 21:54:45.299] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-08-31 21:54:45.299] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-08-31 21:54:45.313] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-08-31 21:54:45.313] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-08-31 21:54:45.351] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-08-31 21:54:45.351] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-08-31 21:54:45.355] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-31 21:54:45.355] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/git/dist/main
+[2021-08-31 21:54:45.370] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2021-08-31 21:54:45.370] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/Documents/VSC-PROFILES/react/formulahendry.auto-rename-tag-0.1.8/packages/extension/dist/extensionMain.js
+[2021-08-31 21:54:45.375] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-08-31 21:54:45.375] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/Documents/VSC-PROFILES/react/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-08-31 21:54:45.381] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"extensionId":{"value":"streetsidesoftware.code-spell-checker-spanish","_lower":"streetsidesoftware.code-spell-checker-spanish"},"activationEvent":"*"}
+[2021-08-31 21:54:45.381] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/Documents/VSC-PROFILES/react/streetsidesoftware.code-spell-checker-1.10.2/dist/extension.js
+[2021-08-31 21:54:45.392] [exthost] [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode {"startup":true,"extensionId":{"value":"TabNine.tabnine-vscode","_lower":"tabnine.tabnine-vscode"},"activationEvent":"*"}
+[2021-08-31 21:54:45.392] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/Documents/VSC-PROFILES/react/tabnine.tabnine-vscode-3.4.25/out/extension
+[2021-08-31 21:54:45.463] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-08-31 21:54:45.463] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/Documents/VSC-PROFILES/react/vscodevim.vim-1.21.7/out/extension
+[2021-08-31 21:54:45.496] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-08-31 21:54:45.496] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/npm/dist/npmMain
+[2021-08-31 21:54:48.412] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-31 21:54:48.412] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/github/dist/extension.js
+[2021-08-31 21:54:48.418] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker-spanish {"startup":true,"extensionId":{"value":"streetsidesoftware.code-spell-checker-spanish","_lower":"streetsidesoftware.code-spell-checker-spanish"},"activationEvent":"*"}
+[2021-08-31 21:54:48.418] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/Documents/VSC-PROFILES/react/streetsidesoftware.code-spell-checker-spanish-1.0.8/out/src/extension
+[2021-08-31 21:54:48.427] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-08-31 21:54:48.427] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-08-31 21:54:48.557] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-08-31 21:54:48.557] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-08-31 21:54:48.766] [exthost] [info] eager extensions activated
+[2021-08-31 21:54:48.769] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-08-31 21:54:48.769] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-08-31 21:54:48.775] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-08-31 21:54:48.775] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-08-31 21:54:48.778] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-wsl-recommender","_lower":"ms-vscode-remote.remote-wsl-recommender"},"activationEvent":"onStartupFinished"}
+[2021-08-31 21:54:48.778] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-08-31 21:54:48.787] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":false,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"onStartupFinished"}
+[2021-08-31 21:54:48.787] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/Documents/VSC-PROFILES/react/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/extension
+[2021-08-31 21:54:48.811] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-08-31 21:54:48.811] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/Documents/VSC-PROFILES/react/dbaeumer.vscode-eslint-2.1.23/client/out/extension
+[2021-08-31 21:54:48.834] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-08-31 21:54:48.834] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/Documents/VSC-PROFILES/react/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-08-31 21:54:56.737] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-08-31 21:54:56.737] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/maxo2/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-08-31 21:58:05.724] [exthost] [error] [vscode.json-language-features] provider FAILED
+[2021-08-31 21:58:05.728] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (c:\Users\maxo2\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\json-language-features\client\dist\node\jsonClientMain.js:1:505514)
+    at E.handleFailedRequest (c:\Users\maxo2\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\json-language-features\client\dist\node\jsonClientMain.js:1:505365)
+    at c:\Users\maxo2\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\json-language-features\client\dist\node\jsonClientMain.js:1:465580
+    at s.provideHover (c:\Users\maxo2\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:85:164654)
+[2021-08-31 22:07:52.907] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-08-31 22:07:53.187] [exthost] [error] TypeError: r.some is not a function
+    at Function.saveToDisk (c:\Users\maxo2\Documents\VSC-PROFILES\react\vscodevim.vim-1.21.7\src\register\register.ts:350:30)
+    at Object.e.deactivate (c:\Users\maxo2\Documents\VSC-PROFILES\react\vscodevim.vim-1.21.7\extension.ts:37:18)
+    at v._deactivate (c:\Users\maxo2\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11286)
+    at c:\Users\maxo2\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:10000
+    at Array.map (<anonymous>)
+    at v.deactivateAll (c:\Users\maxo2\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9988)
+    at P.terminate (c:\Users\maxo2\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:94:725)
+    at h (c:\Users\maxo2\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:104:32088)
+    at Socket.<anonymous> (c:\Users\maxo2\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:104:29731)
+    at Socket.emit (events.js:327:22)
+    at Pipe.<anonymous> (net.js:673:12)
+[2021-08-31 22:07:53.920] [exthost] [info] exiting with code 0

@@ -1,0 +1,54 @@
+{
+    "telemetry.machineId": "ff492fbfc5178f331c29753da0df30ef9d96e18a4419c1ab431d9a07aa70530d",
+    "openedPathsList": {
+        "entries": [
+            {
+                "folderUri": "file:///c%3A/Users/maxo2/Documents/Universidad/Programaci%C3%B3n/IA"
+            },
+            {
+                "folderUri": "file:///c%3A/Users/maxo2/Documents/Projects/calendar-backend"
+            },
+            {
+                "fileUri": "file:///c%3A/Users/maxo2/Documents/Universidad/Programaci%C3%B3n/IA/prueba.py"
+            }
+        ]
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowSplash": {
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1e1e1e",
+            "editorBackground": "#1e1e1e",
+            "titleBarBackground": "#3c3c3c",
+            "activityBarBackground": "#333333",
+            "sideBarBackground": "#252526",
+            "statusBarBackground": "#007acc",
+            "statusBarNoFolderBackground": "#68217a"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 30,
+            "activityBarWidth": 48,
+            "sideBarWidth": 256,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///c%3A/Users/maxo2/Documents/Universidad/Programaci%C3%B3n/IA",
+            "backupPath": "C:\\Users\\maxo2\\Documents\\VSC-PROFILES\\python\\Backups\\3ad198123f4dfea044e82066885947d0",
+            "uiState": {
+                "mode": 1,
+                "x": 307,
+                "y": 121,
+                "width": 1024,
+                "height": 768
+            }
+        },
+        "openedWindows": []
+    }
+}

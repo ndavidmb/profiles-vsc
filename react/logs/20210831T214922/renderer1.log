@@ -1,0 +1,27 @@
+[2021-08-31 21:49:26.499] [renderer1] [error] ENOENT: no such file or directory, open 'c:\Users\maxo2\Documents\VSC-PROFILES\react\User\globalStorage\vscodevim.vim\.registers': Error: ENOENT: no such file or directory, open 'c:\Users\maxo2\Documents\VSC-PROFILES\react\User\globalStorage\vscodevim.vim\.registers'
+[2021-08-31 21:54:45.576] [renderer1] [error] No se puede escribir en el archivo de configuración de usuario porque se ha modificado. Guarde primero el archivo y vuelva a intentarlo.: Error: No se puede escribir en el archivo de configuración de usuario porque se ha modificado. Guarde primero el archivo y vuelva a intentarlo.
+    at E.toConfigurationEditingError (vscode-file://vscode-app/c:/Users/maxo2/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:18781)
+    at E.validate (vscode-file://vscode-app/c:/Users/maxo2/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:22601)
+    at E.doWriteConfiguration (vscode-file://vscode-app/c:/Users/maxo2/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:15186)
+    at Object.factory (vscode-file://vscode-app/c:/Users/maxo2/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:15020)
+    at d.consume (vscode-file://vscode-app/c:/Users/maxo2/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16672)
+    at vscode-file://vscode-app/c:/Users/maxo2/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16487
+    at new Promise (<anonymous>)
+    at d.queue (vscode-file://vscode-app/c:/Users/maxo2/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16411)
+    at E.writeConfiguration (vscode-file://vscode-app/c:/Users/maxo2/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:15005)
+    at E.writeConfigurationValue (vscode-file://vscode-app/c:/Users/maxo2/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:44591)
+    at vscode-file://vscode-app/c:/Users/maxo2/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:30749
+    at Array.map (<anonymous>)
+    at E.updateValue (vscode-file://vscode-app/c:/Users/maxo2/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:30737)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-31 21:54:48.373] [renderer1] [error] ENOENT: no such file or directory, open 'c:\Users\maxo2\Documents\VSC-PROFILES\react\User\globalStorage\vscodevim.vim\.registers': Error: ENOENT: no such file or directory, open 'c:\Users\maxo2\Documents\VSC-PROFILES\react\User\globalStorage\vscodevim.vim\.registers'
+[2021-08-31 21:54:49.905] [renderer1] [error] Must invoke loadWASM first.: Error: Must invoke loadWASM first.
+    at new s (c:\Users\maxo2\AppData\Local\Programs\Microsoft VS Code\resources\app\node_modules.asar\vscode-oniguruma\release\main.js:1:1899)
+    at Object.createOnigString (c:\Users\maxo2\Documents\VSC-PROFILES\react\coenraads.bracket-pair-colorizer-2-0.2.1\out\src\textMateLoader.js:54:48)
+    at e.createOnigString (c:\Users\maxo2\AppData\Local\Programs\Microsoft VS Code\resources\app\node_modules.asar\vscode-textmate\release\main.js:1:5848)
+    at e._tokenize (c:\Users\maxo2\AppData\Local\Programs\Microsoft VS Code\resources\app\node_modules.asar\vscode-textmate\release\main.js:1:7899)
+    at e.tokenizeLine2 (c:\Users\maxo2\AppData\Local\Programs\Microsoft VS Code\resources\app\node_modules.asar\vscode-textmate\release\main.js:1:7198)
+    at DocumentDecoration.tokenizeLine (c:\Users\maxo2\Documents\VSC-PROFILES\react\coenraads.bracket-pair-colorizer-2-0.2.1\out\src\documentDecoration.js:232:55)
+    at DocumentDecoration.tokenizeDocument (c:\Users\maxo2\Documents\VSC-PROFILES\react\coenraads.bracket-pair-colorizer-2-0.2.1\out\src\documentDecoration.js:116:38)
+    at DocumentDecorationManager.updateDocument (c:\Users\maxo2\Documents\VSC-PROFILES\react\coenraads.bracket-pair-colorizer-2-0.2.1\out\src\documentDecorationManager.js:33:32)
+    at c:\Users\maxo2\Documents\VSC-PROFILES\react\coenraads.bracket-pair-colorizer-2-0.2.1\out\src\documentDecorationManager.js:94:30

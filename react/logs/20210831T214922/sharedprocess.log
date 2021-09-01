@@ -1,0 +1,63 @@
+[2021-08-31 21:49:23.831] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-08-31 21:49:25.527] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-08-31 21:49:33.482] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-08-31 21:49:53.491] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-08-31 21:49:53.492] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-08-31 21:49:53.493] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1630463214946.
+[2021-08-31 21:50:03.477] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-08-31 21:50:03.481] [sharedprocess] [info] [language pack cache cleanup]: Skipping folder 7450e74c1d98800c7de6b9750cf2e1ce.es. Language pack still in use.
+[2021-08-31 21:50:09.837] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2021-08-31 21:50:11.847] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode c:\Users\maxo2\Documents\VSC-PROFILES\react\CachedExtensionVSIXs\esbenp.prettier-vscode-8.1.0
+[2021-08-31 21:50:12.049] [sharedprocess] [info] Extracted extension to C:\Users\maxo2\Documents\VSC-PROFILES\react\.a33b78ed-db2f-46b1-92a8-5a16210c66de: esbenp.prettier-vscode
+[2021-08-31 21:50:12.063] [sharedprocess] [info] Renamed to C:\Users\maxo2\Documents\VSC-PROFILES\react\esbenp.prettier-vscode-8.1.0
+[2021-08-31 21:50:12.077] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2021-08-31 21:50:12.080] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode
+[2021-08-31 21:50:24.667] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2021-08-31 21:50:25.850] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme c:\Users\maxo2\Documents\VSC-PROFILES\react\CachedExtensionVSIXs\pkief.material-icon-theme-4.10.0
+[2021-08-31 21:50:26.627] [sharedprocess] [info] Extracted extension to C:\Users\maxo2\Documents\VSC-PROFILES\react\.f643b858-c7cd-4841-832d-fbf31a5cd284: pkief.material-icon-theme
+[2021-08-31 21:50:26.644] [sharedprocess] [info] Renamed to C:\Users\maxo2\Documents\VSC-PROFILES\react\pkief.material-icon-theme-4.10.0
+[2021-08-31 21:50:26.649] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2021-08-31 21:50:26.651] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2021-08-31 21:53:06.334] [sharedprocess] [info] Installing extension: streetsidesoftware.code-spell-checker
+[2021-08-31 21:53:07.893] [sharedprocess] [info] Downloaded extension: streetsidesoftware.code-spell-checker c:\Users\maxo2\Documents\VSC-PROFILES\react\CachedExtensionVSIXs\streetsidesoftware.code-spell-checker-1.10.2
+[2021-08-31 21:53:09.838] [sharedprocess] [info] Extracted extension to C:\Users\maxo2\Documents\VSC-PROFILES\react\.cbf55648-42b3-47b9-956b-0e96bb5084e1: streetsidesoftware.code-spell-checker
+[2021-08-31 21:53:09.850] [sharedprocess] [info] Renamed to C:\Users\maxo2\Documents\VSC-PROFILES\react\streetsidesoftware.code-spell-checker-1.10.2
+[2021-08-31 21:53:09.855] [sharedprocess] [info] Extracting completed. streetsidesoftware.code-spell-checker
+[2021-08-31 21:53:09.858] [sharedprocess] [info] Extension installed successfully: streetsidesoftware.code-spell-checker
+[2021-08-31 21:53:31.612] [sharedprocess] [info] Installing extension: streetsidesoftware.code-spell-checker-spanish
+[2021-08-31 21:53:32.455] [sharedprocess] [info] Downloaded extension: streetsidesoftware.code-spell-checker-spanish c:\Users\maxo2\Documents\VSC-PROFILES\react\CachedExtensionVSIXs\streetsidesoftware.code-spell-checker-spanish-1.0.8
+[2021-08-31 21:53:32.555] [sharedprocess] [info] Extracted extension to C:\Users\maxo2\Documents\VSC-PROFILES\react\.5e812187-c73c-4b14-b877-f061dcee7212: streetsidesoftware.code-spell-checker-spanish
+[2021-08-31 21:53:32.562] [sharedprocess] [info] Renamed to C:\Users\maxo2\Documents\VSC-PROFILES\react\streetsidesoftware.code-spell-checker-spanish-1.0.8
+[2021-08-31 21:53:32.566] [sharedprocess] [info] Extracting completed. streetsidesoftware.code-spell-checker-spanish
+[2021-08-31 21:53:32.568] [sharedprocess] [info] Extension installed successfully: streetsidesoftware.code-spell-checker-spanish
+[2021-08-31 21:53:50.857] [sharedprocess] [info] Installing extension: coenraads.bracket-pair-colorizer-2
+[2021-08-31 21:53:51.755] [sharedprocess] [info] Downloaded extension: coenraads.bracket-pair-colorizer-2 c:\Users\maxo2\Documents\VSC-PROFILES\react\CachedExtensionVSIXs\coenraads.bracket-pair-colorizer-2-0.2.1
+[2021-08-31 21:53:51.869] [sharedprocess] [info] Extracted extension to C:\Users\maxo2\Documents\VSC-PROFILES\react\.57e3742e-40a9-4aa2-9d24-bc9729a90aeb: coenraads.bracket-pair-colorizer-2
+[2021-08-31 21:53:51.877] [sharedprocess] [info] Renamed to C:\Users\maxo2\Documents\VSC-PROFILES\react\coenraads.bracket-pair-colorizer-2-0.2.1
+[2021-08-31 21:53:51.881] [sharedprocess] [info] Extracting completed. coenraads.bracket-pair-colorizer-2
+[2021-08-31 21:53:51.883] [sharedprocess] [info] Extension installed successfully: coenraads.bracket-pair-colorizer-2
+[2021-08-31 21:54:34.011] [sharedprocess] [info] Installing extension: mkloubert.vscode-http-client
+[2021-08-31 21:54:36.476] [sharedprocess] [info] Downloaded extension: mkloubert.vscode-http-client c:\Users\maxo2\Documents\VSC-PROFILES\react\CachedExtensionVSIXs\mkloubert.vscode-http-client-0.34.0
+[2021-08-31 21:54:39.734] [sharedprocess] [info] Extracted extension to C:\Users\maxo2\Documents\VSC-PROFILES\react\.191e3a2c-a323-40a5-bbee-cfaea9f816d7: mkloubert.vscode-http-client
+[2021-08-31 21:54:39.748] [sharedprocess] [info] Renamed to C:\Users\maxo2\Documents\VSC-PROFILES\react\mkloubert.vscode-http-client-0.34.0
+[2021-08-31 21:54:39.754] [sharedprocess] [info] Extracting completed. mkloubert.vscode-http-client
+[2021-08-31 21:54:39.757] [sharedprocess] [info] Extension installed successfully: mkloubert.vscode-http-client
+[2021-08-31 21:54:41.843] [sharedprocess] [info] Uninstalling extension: mkloubert.vscode-http-client
+[2021-08-31 21:54:42.080] [sharedprocess] [info] Successfully uninstalled extension: mkloubert.vscode-http-client
+[2021-08-31 21:54:44.860] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-08-31 21:54:46.802] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-08-31 21:54:57.943] [sharedprocess] [info] Installing extension: humao.rest-client
+[2021-08-31 21:54:58.943] [sharedprocess] [info] Downloaded extension: humao.rest-client c:\Users\maxo2\Documents\VSC-PROFILES\react\CachedExtensionVSIXs\humao.rest-client-0.24.5
+[2021-08-31 21:54:58.993] [sharedprocess] [info] Extracted extension to C:\Users\maxo2\Documents\VSC-PROFILES\react\.02c85a82-5e2e-4f1f-b729-ecbceded29ec: humao.rest-client
+[2021-08-31 21:54:59.002] [sharedprocess] [info] Renamed to C:\Users\maxo2\Documents\VSC-PROFILES\react\humao.rest-client-0.24.5
+[2021-08-31 21:54:59.008] [sharedprocess] [info] Extracting completed. humao.rest-client
+[2021-08-31 21:54:59.010] [sharedprocess] [info] Extension installed successfully: humao.rest-client
+[2021-08-31 21:59:50.822] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-08-31 21:59:52.641] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-08-31 22:00:47.282] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-08-31 22:00:49.267] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-08-31 22:01:01.867] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-08-31 22:01:03.856] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-08-31 22:01:05.868] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-08-31 22:01:08.530] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-08-31 22:01:10.535] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles

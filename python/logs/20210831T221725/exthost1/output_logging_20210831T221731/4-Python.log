@@ -1,0 +1,47 @@
+User belongs to experiment group 'pythonaa'
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonTensorboardExperiment'
+User belongs to experiment group 'PythonPyTorchProfiler'
+User belongs to experiment group 'pythonDeprecatePythonPath'
+User belongs to experiment group 'pythonSortEnvs'
+Python interpreter path: C:\Python39\python.exe
+Error 2021-08-31 22:17:31: Failed to check if file needs to be fixed EntryNotFound (FileSystemError): No se puede leer el archivo "c:\Users\maxo2\Documents\Universidad\Programación\IA\.vscode\settings.json" (Error: No se puede resolver el archivo "c:\Users\maxo2\Documents\Universidad\Programación\IA\.vscode\settings.json" no existente)
+    at _handleError (c:\Users\maxo2\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:85:158459)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at y.readText (c:\Users\maxo2\Documents\VSC-PROFILES\python\ms-python.python-2021.8.1159798656\out\client\extension.js:9:320331)
+    at p.doesFileNeedToBeFixed (c:\Users\maxo2\Documents\VSC-PROFILES\python\ms-python.python-2021.8.1159798656\out\client\extension.js:59:586718)
+    at c:\Users\maxo2\Documents\VSC-PROFILES\python\ms-python.python-2021.8.1159798656\out\client\extension.js:59:585845
+    at async Promise.all (index 1)
+    at p.getFilesToBeFixed (c:\Users\maxo2\Documents\VSC-PROFILES\python\ms-python.python-2021.8.1159798656\out\client\extension.js:59:585791)
+    at p.updateTestSettings (c:\Users\maxo2\Documents\VSC-PROFILES\python\ms-python.python-2021.8.1159798656\out\client\extension.js:59:585418) {
+  code: 'FileNotFound'
+}
+Starting Pylance language server.
+> conda --version
+> C:\Python39\python.exe -m autopep8 --diff c:\Users\maxo2\Documents\Universidad\Programación\IA\first_click.py
+cwd: c:\Users\maxo2\Documents\Universidad\Programación\IA
+> C:\Python39\python.exe -m autopep8 --diff c:\Users\maxo2\Documents\Universidad\Programación\IA\first_click.py
+cwd: c:\Users\maxo2\Documents\Universidad\Programación\IA
+> C:\Python39\python.exe -c "import autopep8"
+> C:\Python39\python.exe -c "import autopep8"
+> C:\Python39\python.exe -c "import autopep8"
+> C:\Python39\python.exe -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> C:\Python39\python.exe -c "import pip"
+> C:\Python39\python.exe -c "import pip"
+> C:\Python39\python.exe -c "import autopep8"
+> C:\Python39\python.exe -c "import autopep8"
+> C:\Python39\python.exe c:\Users\maxo2\Documents\VSC-PROFILES\python\ms-python.python-2021.8.1159798656\pythonFiles\sortImports.py - --diff
+cwd: c:\Users\maxo2\Documents\Universidad\Programación\IA
+> C:\Python39\python.exe c:\Users\maxo2\Documents\VSC-PROFILES\python\ms-python.python-2021.8.1159798656\pythonFiles\sortImports.py - --diff
+cwd: c:\Users\maxo2\Documents\Universidad\Programación\IA
+> C:\Python39\python.exe c:\Users\maxo2\Documents\VSC-PROFILES\python\ms-python.python-2021.8.1159798656\pythonFiles\sortImports.py - --diff
+cwd: c:\Users\maxo2\Documents\Universidad\Programación\IA
+> C:\Python39\python.exe c:\Users\maxo2\Documents\VSC-PROFILES\python\ms-python.python-2021.8.1159798656\pythonFiles\sortImports.py - --diff
+cwd: c:\Users\maxo2\Documents\Universidad\Programación\IA
+Error 2021-08-31 22:21:47: Error while running worker[Worker 2]. undefined
+Error 2021-08-31 22:21:47: Error while running worker[Worker 1]. undefined

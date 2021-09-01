@@ -1,0 +1,27 @@
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 2021-08-31 22:16:51: ZMQ install verified.
+Info 2021-08-31 22:16:51: id is ad49bbbe-c7e4-489b-875d-72a3901865ff
+Info 2021-08-31 22:16:57: Process Execution: > C:\Python39\python.exe -m pip list
+> C:\Python39\python.exe -m pip list
+Info 2021-08-31 22:16:57: Process Execution: > C:\Python39\python.exe -m pip list
+> C:\Python39\python.exe -m pip list
+Info 2021-08-31 22:16:57: Process Execution: > C:\Python39\python.exe -c "import jupyter"
+> C:\Python39\python.exe -c "import jupyter"
+Info 2021-08-31 22:16:57: Process Execution: > C:\Python39\python.exe -c "import jupyter"
+> C:\Python39\python.exe -c "import jupyter"
+Info 2021-08-31 22:16:57: Process Execution: > C:\Python39\python.exe -c "import notebook"
+> C:\Python39\python.exe -c "import notebook"
+Info 2021-08-31 22:16:57: Process Execution: > C:\Python39\python.exe -c "import notebook"
+> C:\Python39\python.exe -c "import notebook"
+Info 2021-08-31 22:17:20: Shutting down notebooks for 9126dc15-c7b0-4855-80de-90abf5ff5bbd
+Info 2021-08-31 22:17:20: Disposing HostJupyterExecution 4499b310-dd51-4b46-a0d9-50be7db4d7b2
+Info 2021-08-31 22:17:20: Disposing super HostJupyterExecution 4499b310-dd51-4b46-a0d9-50be7db4d7b2
+Info 2021-08-31 22:17:20: Disposing HostJupyterExecution 4499b310-dd51-4b46-a0d9-50be7db4d7b2
+Info 2021-08-31 22:17:20: Finished disposing HostJupyterExecution  4499b310-dd51-4b46-a0d9-50be7db4d7b2
+Info 2021-08-31 22:17:20: Disposing HostJupyterExecution 4499b310-dd51-4b46-a0d9-50be7db4d7b2
+Info 2021-08-31 22:17:20: Finished disposing HostJupyterExecution  4499b310-dd51-4b46-a0d9-50be7db4d7b2
+Info 2021-08-31 22:17:20: Getting live share API during dispose HostJupyterExecution 4499b310-dd51-4b46-a0d9-50be7db4d7b2
+Info 2021-08-31 22:17:20: Detaching HostJupyterExecution 4499b310-dd51-4b46-a0d9-50be7db4d7b2
+Info 2021-08-31 22:17:20: Cleaning up server cache 4499b310-dd51-4b46-a0d9-50be7db4d7b2
+Info 2021-08-31 22:17:20: Finished disposing HostJupyterExecution  4499b310-dd51-4b46-a0d9-50be7db4d7b2
