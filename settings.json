@@ -1,0 +1,255 @@
+{
+  "editor.fontFamily": "'Cascadia Code', 'Cascadia Code PL Roman', 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 19,
+  "editor.cursorBlinking": "solid",
+  "editor.suggestSelection": "first",
+  "editor.tabCompletion": "onlySnippets",
+  "editor.snippetSuggestions": "top",
+  "editor.renderWhitespace": "none",
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "editor.lineNumbers": "relative",
+  "editor.wordSeparators": "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-",
+  "editor.wordWrap": "off",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "activitusbar.views": [
+    {
+      "name": "explorer",
+      "codicon": "explorer-view-icon"
+    },
+    {
+      "name": "search",
+      "codicon": "search-view-icon"
+    },
+    {
+      "name": "scm",
+      "codicon": "source-control-view-icon"
+    },
+    {
+      "name": "debug",
+      "codicon": "run-view-icon"
+    },
+    {
+      "name": "extensions",
+      "codicon": "extensions-view-icon"
+    },
+    {
+      "name": "extension.objectExplorer",
+      "codicon": "database"
+    },
+    {
+      "name": "extension.azure",
+      "codicon": "organization"
+    }
+  ],
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.list.smoothScrolling": true,
+  "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#33ff00"
+  },
+  "vim.easymotion": true,
+  "vim.incsearch": true,
+  "vim.useSystemClipboard": true,
+  "vim.useCtrlKeys": true,
+  "vim.hlsearch": true,
+  "vim.leader": "<space>",
+  "vim.surround": true,
+  "vim.foldfix": true,
+  "vim.cursorStylePerMode.normal": "block-outline",
+  "vim.statusBarColors.surroundinputmode": "#007ACC",
+  "vim.normalModeKeyBindings": [
+    {
+      "before": ["g", "j"],
+      "commands": ["editor.action.marker.nextInFiles"]
+    },
+    {
+      "before": ["g", "k"],
+      "commands": ["editor.action.marker.prevInFiles"]
+    },
+    {
+      "before": ["<leader>", "l"],
+      "commands": [
+        "workbench.action.splitEditorRight",
+        "workbench.action.focusPreviousGroup",
+        "workbench.action.closeActiveEditor"
+      ]
+    },
+    {
+      "before": ["<leader>", "n", "t"],
+      "commands": ["workbench.view.explorer"]
+    },
+    {
+      "before": ["K"],
+      "commands": ["workbench.action.nextEditor"]
+    },
+    {
+      "before": ["J"],
+      "commands": ["workbench.action.previousEditor"]
+    },
+    {
+      "before": ["L"],
+      "after": ["$"]
+    },
+
+    {
+      "before": ["<c-l>"],
+      "commands": ["workbench.action.focusNextGroup"]
+    },
+    {
+      "before": ["<c-h>"],
+      "commands": ["workbench.action.focusPreviousGroup"]
+    },
+    {
+      "before": ["<leader>", "p"],
+      "commands": [
+        {
+          "command": "workbench.action.quickOpen"
+        }
+      ]
+    },
+    {
+      "before": ["<leader>", "q"],
+      "commands": [
+        {
+          "command": "workbench.action.closeActiveEditor"
+        }
+      ]
+    },
+    {
+      "before": ["<leader>", "w"],
+      "commands": [
+        {
+          "command": "workbench.action.files.saveAll"
+        }
+      ]
+    },
+    {
+      "before": ["<leader>", "a", "g"],
+      "commands": [
+        {
+          "command": "workbench.action.findInFiles"
+        }
+      ]
+    },
+    {
+      "before": ["<c-n>"],
+      "commands": ["editor.action.insertCursorBelow"]
+    },
+    {
+      "before": ["<leader>", "s", "i"],
+      "commands": ["editor.action.formatDocument"]
+    },
+    {
+      "before": ["<leader>", "c", "i"],
+      "commands": ["editor.action.commentLine"]
+    },
+    {
+      "before": ["Y"],
+      "commands": ["editor.action.copyLinesDownAction"]
+    },
+    {
+      "before": [","],
+      "after": ["A", ",", "<Esc>"]
+    },
+    {
+      "before": ["<leader>", "v"],
+      "after": ["I", "<Esc>", "l", "v", "$", "h"]
+    },
+    {
+      "before": [";"],
+      "after": ["A", ";", "<Esc>"]
+    },
+    {
+      "before": ["<leader>", "s", "e"],
+      "after": ["i", "<Cr>", "<Esc>"]
+    },
+    {
+      "before": ["<leader>", "f"],
+      "after": ["leader", "leader", "2", "s"]
+    },
+    {
+      "before": ["<leader>", "a", "l"],
+      "commands": ["workbench.action.closeOtherEditors"]
+    }
+  ],
+  "vim.visualModeKeyBindings": [
+    {
+      "before": ["<leader>", "r"],
+      "commands": ["rest-client.request"]
+    },
+    {
+      "before": ["<leader>", "c", "i"],
+      "commands": ["editor.action.commentLine"]
+    },
+    {
+      "before": ["L"],
+      "after": ["%"]
+    }
+  ],
+  "vim.insertModeKeyBindings": [
+    {
+      "before": ["<c-l>"],
+      "after": ["<Right>"]
+    },
+    {
+      "before": ["<c-h>"],
+      "after": ["<Left>"]
+    }
+  ],
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "files.autoSave": "off",
+  "git.autofetch": true,
+  "terminal.external.windowsExec": "powershell.exe",
+  "terminal.integrated.fontFamily": "'CaskaydiaCove NF', Consolas, 'Courier New', monospace",
+  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.cursorStyle": "line",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "typescript.suggest.autoImports": true,
+  "tabnine.experimentalAutoImports": true,
+  "mssql.connections": [
+    {
+      "server": "tcp:srvportalcoudadano.database.windows.net",
+      "database": "NotaryDigitalAuthentication",
+      "authenticationType": "SqlLogin",
+      "user": "DbAdmin",
+      "password": "",
+      "emptyPasswordInput": false,
+      "savePassword": true,
+      "profileName": "Authentication"
+    },
+    {
+      "server": "tcp:srvportalcoudadano.database.windows.net",
+      "database": "NotaryDigitalTransactional",
+      "authenticationType": "SqlLogin",
+      "user": "DbAdmin",
+      "password": "",
+      "emptyPasswordInput": false,
+      "savePassword": true,
+      "profileName": "Transactional"
+    }
+  ],
+  "workbench.activityBar.visible": false,
+  "redhat.telemetry.enabled": true,
+  "cSpell.language": "en,es",
+  "cSpell.userWords": ["Cardinalidad", "Finalización", "dinámicamente"],
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "window.menuBarVisibility": "toggle",
+  "window.title": "${activeEditorShort}",
+  "breadcrumbs.enabled": false,
+  "explorer.compactFolders": false,
+  "emmet.showSuggestionsAsSnippets": true,
+  "editor.renderControlCharacters": true,
+  "terminal.integrated.gpuAcceleration": "off",
+  "glassit.alpha": 226,
+  "sync.gist": "1a27534f46fd5986fb26f189fba31e24",
+  "yaml.schemas": {
+    "file:///home/david/.vscode/extensions/atlassian.atlascode-2.9.1/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+  },
+  "atlascode.bitbucket.enabled": true
+}
