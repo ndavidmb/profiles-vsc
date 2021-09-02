@@ -1,4 +1,4 @@
-import * as fs from "fs";
+import * as fs from 'fs';
 import * as os from "os";
 import * as vscode from "vscode";
 import * as service from "../api.service";
@@ -26,11 +26,11 @@ export const changeProfile = async () => {
 };
 
 const replaceProfileSettings = async (settings: any) => {
-  const home = os.homedir();
-  console.log(home);
+  const path = getFullPath();
+  console.table({path});
 
   fs.writeFile(
-    `${home}/.config/Code/User/settings.json`,
+    path,
     JSON.stringify(settings, null, 2),
     "utf8",
     function (err) {
@@ -41,4 +41,12 @@ const replaceProfileSettings = async (settings: any) => {
       vscode.window.showInformationMessage('Everything have been updated correctly');
     }
   );
+};
+
+const getFullPath = () => {
+  const home = os.homedir();
+  const sys = os.platform();
+  const settingsPath = sys === 'win32' ? ['AppData', 'Roaming'] : ['.config'];
+  const folders = [home, ...settingsPath, 'Code', 'User', 'settings.json'];
+  return folders.join(sys === 'win32' ? '\\': '/');
 };
